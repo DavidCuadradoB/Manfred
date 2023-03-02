@@ -1,0 +1,208 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Cuadrado Ballesteros",
+      "title": "Senior Software Developer in Thoughtworks",
+      "description": "I'm a software developer currently employed by Thoughtworks as Senior Developer where I\nconstantly apply lean development, SOLID principles and testing best practices while\nworking in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Thoughtworks"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "Development of several clients products in a wide variety of technologies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vicens Vives Digital"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "Development of e-learning platforms in an Agile team with Kanban and Squad organization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LinkeIT"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Development of one of the client products using Java, Spring and AWS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Godó"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2015-10-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Participate in the development of the La Vanguardia and Mundo deportivo websites."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "E-tic sistemes"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2015-05-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "Participate in the maintenance of the La Vanguardia and Mundo deportivo websites."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SAP"
+        },
+        "roles": [
+          {
+            "name": "Internship",
+            "startDate": "2014-02-01",
+            "finishDate": "2014-08-01",
+            "challenges": [
+              {
+                "description": "Development of an application that controls the work-flow of the department"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
