@@ -11,6 +11,9 @@
       "title": "Senior Software Developer in Thoughtworks",
       "description": "I'm a software developer currently employed by Thoughtworks as Senior Developer where I\nconstantly apply lean development, SOLID principles and testing best practices while\nworking in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.",
       "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
         "notes": "Autocompleted using Google Maps API"
       }
     },
