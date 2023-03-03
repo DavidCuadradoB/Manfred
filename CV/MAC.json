@@ -13,7 +13,13 @@
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -207,6 +213,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
