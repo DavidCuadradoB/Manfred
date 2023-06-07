@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,18 +11,12 @@
       "title": "Senior Software Developer in Thoughtworks",
       "description": "I'm a software developer currently employed by Thoughtworks as Senior Developer where I\nconstantly apply lean development, SOLID principles and testing best practices while\nworking in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -143,36 +137,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
           "type": "technology"
         }
@@ -191,7 +155,25 @@
       },
       {
         "skill": {
-          "name": "Spring",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -203,8 +185,40 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -213,8 +227,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US"
+          "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "davidcuadradoballesteros@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "671341602",
+          "countryCode": "+34"
         }
       ]
     },
@@ -270,5 +293,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'm a software developer with more than 9 years of experience currently employed by Thoughtworks as Senior Developer where I constantly apply lean development, SOLID principles and testing best practices while working in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.\n\nI'm looking for a job where I have technical challenges and where I can learn new technologies. I don't visualize a job without agile, lean development, best practices and product mindset. I would love learn new lenguages like Python or Go.\n\nI have a deep knowledge in Java and Kotlin as well as in oriented programming language, tdd, ddd, Docker, clean architecture and other concepts considered best practices.\n\nI also have some experience with some frontend frameworks such as React and with scripting languages such as Python.\n\nLast but not least, during the last 3 years, I have been working as a consultant where soft skills and communication are very important, so I have been focused on improving these topics, taking communication courses, and facilitating meetings.\n\nOne of the most important values in a job is if I'm comfortable in the team and in the company. I want to work in a place where there are no egos, no superheros, no lone wolves who control everything, no toxicity in the team.\n\nI really believe that a safe space and the diversity make the team healthy, and a healthy team works better. I love to contribute to this healthiness."
   }
 }
