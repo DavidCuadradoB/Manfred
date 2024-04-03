@@ -1,22 +1,28 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "David",
       "surnames": "Cuadrado Ballesteros",
-      "title": "Senior Software Developer in Thoughtworks",
-      "description": "I'm a software developer currently employed by Thoughtworks as Senior Developer where I\nconstantly apply lean development, SOLID principles and testing best practices while\nworking in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.",
+      "title": "Senior Software Developer in FeverUp",
+      "description": "I'm a software developer currently employed by FeverUp as Senior Developer where I\nconstantly apply lean development, SOLID principles and testing best practices while\nworking in cross-functional teams with a product mindset.\n\nI'm passionate about software architecture, learning new technologies and applying design\npatterns to solve problems with a quality-first mindset.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
         "municipality": "Barcelona"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cuadradoballesterosd/?locale=en_US"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -126,11 +132,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -149,7 +157,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -233,12 +241,6 @@
       ],
       "contactMails": [
         "davidcuadradoballesteros@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "671341602",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -260,7 +262,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
